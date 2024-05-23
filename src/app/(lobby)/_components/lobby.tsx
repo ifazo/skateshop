@@ -62,20 +62,20 @@ export async function Lobby({
             className="rounded-full px-3.5 py-1.5"
           >
             <Icons.gitHub className="mr-2 size-3.5" aria-hidden="true" />
-            {githubStars} stars on GitHub
+            view on GitHub
           </Badge>
         </Link>
         <PageHeaderHeading
           className="animate-fade-up"
           style={{ animationDelay: "0.20s", animationFillMode: "both" }}
         >
-          Foundation for your commerce platform
+          Shoping with Ifaz e-commerce platform
         </PageHeaderHeading>
         <PageHeaderDescription
           className="max-w-[46.875rem] animate-fade-up"
           style={{ animationDelay: "0.30s", animationFillMode: "both" }}
         >
-          Skateshop is an open-source platform for building and customizing your
+          Skateshop is an e-commerce platform for building and customizing your
           own commerce platform with ease.
         </PageHeaderDescription>
         <PageActions

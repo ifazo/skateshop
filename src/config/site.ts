@@ -6,11 +6,11 @@ import { slugify } from "@/lib/utils"
 export type SiteConfig = typeof siteConfig
 
 const links = {
-  x: "https://twitter.com/sadmann17",
-  github: "https://github.com/sadmann7/skateshop",
-  githubAccount: "https://github.com/sadmann7",
-  discord: "https://discord.com/users/sadmann7",
-  calDotCom: "https://cal.com/sadmann7",
+  x: "https://twitter.com/ifazo",
+  github: "https://github.com/ifazo",
+  githubAccount: "https://github.com/ifazo",
+  discord: "https://discord.com/users/ifazo",
+  calDotCom: "https://cal.com/ifazo",
 }
 
 export const siteConfig = {

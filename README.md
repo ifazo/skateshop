@@ -41,7 +41,7 @@ This is an open source e-commerce skateshop build with everything new in Next.js
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/sadmann7/skateshop.git
+   git clone https://github.com/ifazo/skateshop.git
    ```
 
 2. Install dependencies using pnpm
@@ -87,8 +87,8 @@ Contributions are welcome! Please open an issue if you have any questions or sug
 Thanks goes to these wonderful people for their contributions:
 
 <p align="center">
- <a href="https://github.com/sadmann7/skateshop/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=sadmann7/skateshop" />
+ <a href="https://github.com/ifazo/skateshop/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=ifazo/skateshop" />
  </a>
 </p>
 
